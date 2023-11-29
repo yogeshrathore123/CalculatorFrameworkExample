@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:CalculatorApp/CalculatorApp.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Calculator-FrameWork/Calculator-FrameWork.xcodeproj">
    </FileRef>
 </Workspace>
